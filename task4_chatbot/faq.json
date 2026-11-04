@@ -1,0 +1,30 @@
+{
+  "greeting": {
+    "keywords": ["hi", "hello", "hey", "good morning", "good evening"],
+    "response": "Hello! Welcome to TechMart support. How can I help you today?"
+  },
+  "hours": {
+    "keywords": ["hours", "open", "close", "timing", "time"],
+    "response": "We are open Monday to Saturday, 9 AM to 8 PM. Closed on Sundays."
+  },
+  "shipping": {
+    "keywords": ["shipping", "delivery", "deliver", "ship"],
+    "response": "Standard delivery takes 3-5 working days. Orders above Rs 999 ship free."
+  },
+  "returns": {
+    "keywords": ["return", "refund", "exchange", "replace"],
+    "response": "You can return any product within 7 days of delivery for a full refund."
+  },
+  "payment": {
+    "keywords": ["payment", "pay", "upi", "card", "cod"],
+    "response": "We accept UPI, credit/debit cards, net banking and cash on delivery."
+  },
+  "warranty": {
+    "keywords": ["warranty", "guarantee", "repair"],
+    "response": "All electronics come with a 1 year manufacturer warranty."
+  },
+  "contact": {
+    "keywords": ["contact", "phone", "email", "support", "help"],
+    "response": "Reach us at support@techmart.com or call 1800-123-456."
+  }
+}
